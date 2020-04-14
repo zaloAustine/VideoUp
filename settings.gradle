@@ -1,0 +1,2 @@
+rootProject.name='VideoUp2'
+include ':app'
